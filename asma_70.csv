@@ -1,0 +1,7 @@
+﻿id,displayname,fullname,searchname,gender,generation,teachers,students,specifiedteachers,specifiedstudents,info,hadiths,notes
+1,Prophet Muḥammad,"Prophet Muḥammad, peace and blessings be upon him",Prophet Muhammad,male,,,,,"70, 53",,,
+70,Asmāʾ bint Abi Bakr,Asmāʾ bint Abi Bakr,Asma bint Abi Bakr,female,,,,53,10526,"Sister of ʿAʾishah bint Abi Bakr, daughter of Abi Bakr (the first caliph), wife of al-Zubayr ibn al-ʾAwwām, and sister-in-law of the Prophet ﷺ",,
+53,ʿAʾishah bint Abi Bakr,ʿAʾishah bint Abi Bakr,Aishah bint Abi Bakr,female,,,,1,70,"Wife of the Prophet ﷺand daughter of Abi Bakr, the first caliph",https://isnad.io/hadith/644,
+10526,Fāṭimah bint al-Munthir ibn al-Zubayr,Fāṭimah bint al-Munthir ibn al-Zubayr ibn al-ʿAwwām,Fatimah bint al-Munthir ibn al-Zubayr ibn al-Awwam,female,,,,70,11065,Wife of Hishām ibn ʿUrwah ibn al-Zubayr and granddaughter of Asmāʿ bint Abi Bakr,https://isnad.io/hadith/644,
+11065,Hishām ibn ʿUrwah,Hishām ibn ʿUrwah ibn az-Zubayr ibn al-ʿAwwām,Hisham ibn Urwah ibn az-Zubayr ibn al-Awwam,male,,,,10526,20001,Husband of Fātimah bint al-Munthir and grandson of Asmāʿ bint Abi Bakr,https://isnad.io/hadith/644,
+20001,Imām Mālik,Mālik ibn Anas,Malik ibn Anas,male,,,,11065,,Founder of one of the four legal schools of thought in Sunni Islam,https://isnad.io/hadith/644,
