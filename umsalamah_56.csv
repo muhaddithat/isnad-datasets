@@ -1,6 +1,6 @@
 ﻿id,displayname,fullname,searchname,gender,generation,teachers,students,specifiedteachers,specifiedstudents,info,hadiths,notes
 1,Prophet Muḥammad,"Prophet Muḥammad, peace and blessings be upon him",Prophet Muhammad,male,,,,,,,,
-56,Um Salamah,Hind bint Abi Umayyah ibn al-Mughīrah,Um Salamah Hind bint Abi Umayyah ibn al-Mughīrah,female,,,,1,"11002, 10526, 11811, 10520, 10567, 244, 10737",Wife of the Prophet Muḥammad ﷺ,,
+56,Um Salamah,Hind bint Abi Umayyah ibn al-Mughīrah,Um Salamah Hind bint Abi Umayyah ibn al-Mughīrah,female,,,,1,"11002, 10526, 11811, 10520, 10567, 244, 10737, 2802",Wife of the Prophet Muḥammad ﷺ,,
 244,Zaynab bint Abi Salamah,Zaynab bint Abi Salamah,Zaynab bint Abi Salamah,female,,"57, 59, 53, 56, 1",10511,56,"10511, 10567","Daughter of Um Salamah, and step-daughter of the Prophet ﷺ","https://isnad.io/hadith/1484, https://isnad.io/hadith/5272",
 10511,ʿUrwah ibn al-Zubayr,ʿUrwah ibn al-Zubayr ibn al-ʿAwwām,Urwah ibn al-Zubayr ibn al-Awwam,male,,,,244,11065,Nephew of ʿĀʾishah bint Abi Bakr,https://isnad.io/hadith/1484,
 10520,ʿAbdullāh ibn ʿAbdur-Raḥmān ibn Abi Bakr,ʿAbdullāh ibn ʿAbdur-Raḥmān ibn Abi Bakr,Abdullah ibn Abdur-Rahman ibn Abi Bakr,male,,56,11819,56,11819,Grandson of Abi Bakr and the nephew of ʿĀʾishah bint Abi Bakr,https://isnad.io/hadith/16579,
@@ -15,3 +15,4 @@
 11811,Ṣafiyyah bint Abi ʿUbayd al-Thaqafi,Ṣafiyyah bint Abi ʿUbayd ibn Masʿūd al-Thaqafi,Safiyyah bint Abi Ubayd ibn Masud al-Thaqafi,female,,"53, 54, 56, 10535","18, 11014",56,11014,Wife of Ābdullāh ibn ʿUmar ,"https://isnad.io/hadith/32218, https://isnad.io/hadith/29520",
 11819,Zayd ibn ʿAbdullāh ibn ʿUmar,Zayd ibn ʿAbdullāh ibn ʿUmar ibn al-Khaṭṭāb,Zayd ibn Abdullah ibn Umar ibn al-Khattab,male,,10520,11014,10520,11014,Son of ʿAbdullāh ibn ʿUmar ibn al-Khaṭṭāb,https://isnad.io/hadith/16579,
 20001,Imām Mālik,Mālik ibn Anas,Malik ibn Anas,male,,"11013, 11014, 10530, 11164, 11168, 10530, 11002, 11065",,11002,,Founder of one of the four legal schools of thought in Sunni Islam,https://isnad.io/hadith/2967,
+2802,Ṣafiyyah bint Shaybah ibn ʿUthmān,Ṣafiyyah bint Shaybah ibn ʿUthmān,Safiyyah bint Shaybah ibn Uthman,female,,,,56,,,https://isnad.io/hadith/17898,
