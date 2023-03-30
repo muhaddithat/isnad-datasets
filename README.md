@@ -16,7 +16,7 @@ To make the social network graphs, I used [GraphSpace](http://www.graphspace.org
 - **ID**: number representing the hadith or the hadith narrator. For the hadith narrators, this corresponds to the ID assigned by muslimscholars.info.
 - **displayname**: the narrator's shortened name, with diacritics, that will be displayed on the node on the graph.
 - **fullname**: the narrator's full name in English with diacritics.
-- **searchname**: the narrator's full name without diacritics.
+- **searchname**: the narrator's full name in English without diacritics.
 - **arabicname**: the narrator's full name in Arabic.
 - **gender**: the narrator's gender.
 - **info**: brief description of the narrator.
